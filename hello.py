@@ -1,1 +1,3 @@
 print("hii")
+a=8
+print(a)
